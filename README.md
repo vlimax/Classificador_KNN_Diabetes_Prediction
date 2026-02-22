@@ -4,7 +4,7 @@ Este projeto utiliza o algoritmo K-Nearest Neighbors (KNN) para classificar a pr
 
 ## 📂 Estrutura do Projeto
 
-    data/: Contém o dataset Pima Indians Diabetes e dados gerados durante a análise.
+    datos/: Contém o dataset Pima Indians Diabetes e dados gerados durante a análise.
 
     notebooks/: Análise exploratória e treinamento do modelo KNN.
 
